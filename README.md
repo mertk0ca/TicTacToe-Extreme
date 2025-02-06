@@ -9,4 +9,4 @@ But be careful! After placing the third mark, **your first mark will disappear**
 
 Can you master the new rules and claim victory? 🏆  
 
-🎮 **Play now on Itch.io:** [Your Itch.io Link Here]([https://your-itch-io-link.com](https://mertkoca.itch.io/tictactoe-extreme))
+🎮 **Play now on Itch.io:** [Play!]([https://mertkoca.itch.io/tictactoe-extreme])
